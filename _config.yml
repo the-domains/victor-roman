@@ -1,0 +1,23 @@
+name: Victor Roman
+favicon: null
+layout_spectrum: 0.15340696275234222
+typography_spectrum: 0.21509328484535217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6467623892240226
+  lightness: 0.36959762847982347
+  saturation: 0.3470285418443382
+  rhythmicContrast: 0.0286289278883487
+purpose: []
